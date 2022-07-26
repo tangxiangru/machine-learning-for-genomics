@@ -10,7 +10,7 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 ## Transformers
 - **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers
-model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V Davuluri * `Bioinformatics 2021` [[paper]]([https://arxiv.org/abs/2109.11621](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)) 
+model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V Davuluri* `Bioinformatics 2021` [[paper]]([https://arxiv.org/abs/2109.11621](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)) 
 
 
 
