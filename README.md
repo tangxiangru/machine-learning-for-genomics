@@ -2,7 +2,7 @@
 Papers on machine learning for proteins
 
 <p align="center">
-<h1 align="center"> <img src="./pic/summary.png" width="30" />Papers of Machine Learning for Genomics</h1>
+<h1 align="center"> <img src="https://github.com/xcfcode/Summarization-Papers/pic/summary.png" width="30" />Papers of Machine Learning for Genomics</h1>
 </p>
 
 Organized by [Robert Tang](https://xiangrutang.github.io/).
