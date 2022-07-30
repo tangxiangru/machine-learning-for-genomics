@@ -9,7 +9,11 @@ Papers on machine learning for proteins
 Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 ## Survey
+- **Machine Learning Methods for Exploring Sequence Determinants of 3D Genome Organization** *Muyu Yang, Jian Ma*
 - **Computational and experimental methods for classifying variants of unknown clinical significance** *Malte Spielmann, Martin Kircher*
+
+
+
 ## Transformers
 - **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers
 model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V Davuluri* `Bioinformatics 2021` [[paper]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
