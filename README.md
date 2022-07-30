@@ -9,6 +9,7 @@ Papers on machine learning for proteins
 Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 ## Survey
+- **Genomics enters the deep learning era** *Etienne Routhier, Julien Mozziconacci*
 - **Machine Learning Methods for Exploring Sequence Determinants of 3D Genome Organization** *Muyu Yang, Jian Ma*
 - **Computational and experimental methods for classifying variants of unknown clinical significance** *Malte Spielmann, Martin Kircher*
 
