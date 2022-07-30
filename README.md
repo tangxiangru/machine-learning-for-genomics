@@ -26,6 +26,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 ## Regulatory
 - **Integrating long-range regulatory interactions to predict gene expression using graph convolutional networks** *Jeremy Bigness, Xavier Loinaz, Shalin Patel, Erica Larschan, Ritambhara Singh*
+- **Assessing comparative importance of DNA sequence and epigenetic modifications on gene expression using a deep convolutional neural network**
 
 ## Gene Expression
 - **Predicting Tissue-Specific mRNA and Protein Abundance in Maize: A Machine Learning Approach** *Kyoung Tak Cho, Taner Z. Sen, Carson M. Andorf* `Frontiers in Artificial Intelligence` [[paper]](https://static.frontiersin.org/articles/10.3389/frai.2022.830170/full)
