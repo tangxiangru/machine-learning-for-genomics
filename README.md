@@ -29,6 +29,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 ## Gene Expression
 - **Predicting Tissue-Specific mRNA and Protein Abundance in Maize: A Machine Learning Approach** *Kyoung Tak Cho, Taner Z. Sen, Carson M. Andorf* `Frontiers in Artificial Intelligence` [[paper]](https://static.frontiersin.org/articles/10.3389/frai.2022.830170/full)
+- **The evolution, evolvability and engineering of gene regulatory DNA** *Eeshit Dhaval Vaishnav, Carl G. de Boer, Jennifer Molinet, Moran Yassour, Lin Fan, Xian Adiconis, Dawn A. Thompson, Joshua Z. Levin, Francisco A. Cubillos & Aviv Regev* `Nature 2022`
 
 ## Transcription Factors
 - **DeepSTARR predicts enhancer activity from DNA sequence and enables the de novo design of synthetic enhancers** *Bernardo P. de Almeida, Franziska Reiter, Michaela Pagani & Alexander Stark* `Nature Genetics 2022`
