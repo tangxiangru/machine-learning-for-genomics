@@ -24,11 +24,13 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 ## Functional Interactions
 - **Co-evolution based machine-learning for predicting functional interactions between human genes** *Doron Stupp, Elad Sharon, Idit Bloch, Marinka Zitnik, Or Zuk, Yuval Tabach* `Nature Communications 2021` [[paper]](https://www.nature.com/articles/s41467-021-26792-w)
 
-## Gene Expression Regulation
+## Gene Expression & Regulation
 - **Integrating long-range regulatory interactions to predict gene expression using graph convolutional networks** *Jeremy Bigness, Xavier Loinaz, Shalin Patel, Erica Larschan, Ritambhara Singh*
 - **Assessing comparative importance of DNA sequence and epigenetic modifications on gene expression using a deep convolutional neural network**
 - **Predicting Tissue-Specific mRNA and Protein Abundance in Maize: A Machine Learning Approach** *Kyoung Tak Cho, Taner Z. Sen, Carson M. Andorf* `Frontiers in Artificial Intelligence` [[paper]](https://static.frontiersin.org/articles/10.3389/frai.2022.830170/full)
 - **The evolution, evolvability and engineering of gene regulatory DNA** *Eeshit Dhaval Vaishnav, Carl G. de Boer, Jennifer Molinet, Moran Yassour, Lin Fan, Xian Adiconis, Dawn A. Thompson, Joshua Z. Levin, Francisco A. Cubillos & Aviv Regev* `Nature 2022`
+- **Chromatin interaction–aware gene regulatory modeling with graph attention networks** *Alireza Karbalayghareh, Merve Sahin and Christina S. Leslie*
+
 
 ## Transcription Factors
 - **DeepSTARR predicts enhancer activity from DNA sequence and enables the de novo design of synthetic enhancers** *Bernardo P. de Almeida, Franziska Reiter, Michaela Pagani & Alexander Stark* `Nature Genetics 2022`
