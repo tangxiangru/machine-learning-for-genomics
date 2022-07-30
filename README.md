@@ -19,3 +19,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 ## Genetic Perturbation
 - **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations** *Yusuf Roohani, Kexin Huang, Jure Leskovec* 
+
+
+## Others
+- **GenomeWarp: an alignment-based variant coordinate transformation** *Cory Y. McLean, Yeongwoo Hwang, Ryan Poplin, Mark A. DePristo* `Bioinformatics (2019)` [[paper]](https://academic.oup.com/bioinformatics/article/35/21/4389/5420550)
