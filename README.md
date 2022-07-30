@@ -26,6 +26,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 ## Interpretability
 - **Assessment and Optimization of the Interpretability of Machine Learning Models Applied to Transcriptomic Data** *Yongbing Zhao, Jinfeng Shao, Yan W Asmann*
+- **ExplaiNN: interpretable and transparent neural networks for genomics** *Gherman Novakovsky, Oriol Fornes, Manu Saraswat, Sara Mostafavi, Wyeth W. Wasserman**
 
 ## Others
 - **GenomeWarp: an alignment-based variant coordinate transformation** *Cory Y. McLean, Yeongwoo Hwang, Ryan Poplin, Mark A. DePristo* `Bioinformatics (2019)` [[paper]](https://academic.oup.com/bioinformatics/article/35/21/4389/5420550)
