@@ -33,6 +33,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 ## Transcription Factors
 - **DeepSTARR predicts enhancer activity from DNA sequence and enables the de novo design of synthetic enhancers** *Bernardo P. de Almeida, Franziska Reiter, Michaela Pagani & Alexander Stark* `Nature Genetics 2022`
+- **Generating specificity in genome regulation through transcription factor sensitivity to chromatin** *Luke Isbel, Ralph S. Grand & Dirk Schübeler* `Nature Reviews Genetics (2022)`
 
 ## Genetic Perturbation
 - **GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations** *Yusuf Roohani, Kexin Huang, Jure Leskovec* 
