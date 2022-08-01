@@ -21,7 +21,7 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 - **Effective gene expression prediction from sequence by integrating long-range interactions** *Žiga Avsec, Vikram Agarwal, Daniel Visentin, Joseph R. Ledsam, Agnieszka Grabska-Barwinska, Kyle R. Taylor, Yannis Assael, John Jumper, Pushmeet Kohli & David R. Kelley* `Nature Methods 2021` [[paper]](https://www.nature.com/articles/s41592-021-01252-x)
 
-- **BERT-Promoter: An improved sequence-based predictor of DNA promoter using BERT pre-trained model and SHAP feature selection** *Nguyen Quoc Khanh Le, Quang-Thai Ho, Van-NuiNguyen, Jung-SuChang* [[paper]](https://www.sciencedirect.com/science/article/pii/S1476927122001128?casa_token=KrR7rtlA4DoAAAAA:pmWZevNjaDzCs_jVsHQgU_-FibyfD6jIAZJlZRlEya7jEAI0wfAzLZSvq2sGIdz-p8Q42YALgw)
+- **BERT-Promoter: An improved sequence-based predictor of DNA promoter using BERT pre-trained model and SHAP feature selection** *Nguyen Quoc Khanh Le, Quang-Thai Ho, Van-Nui Nguyen, Jung-Su Chang* [[paper]](https://www.sciencedirect.com/science/article/pii/S1476927122001128?casa_token=KrR7rtlA4DoAAAAA:pmWZevNjaDzCs_jVsHQgU_-FibyfD6jIAZJlZRlEya7jEAI0wfAzLZSvq2sGIdz-p8Q42YALgw)
 
 ## Functional Interactions
 - **Co-evolution based machine-learning for predicting functional interactions between human genes** *Doron Stupp, Elad Sharon, Idit Bloch, Marinka Zitnik, Or Zuk, Yuval Tabach* `Nature Communications 2021` [[paper]](https://www.nature.com/articles/s41467-021-26792-w)
