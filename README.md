@@ -23,6 +23,8 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 - **BERT-Promoter: An improved sequence-based predictor of DNA promoter using BERT pre-trained model and SHAP feature selection** *Nguyen Quoc Khanh Le, Quang-Thai Ho, Van-Nui Nguyen, Jung-Su Chang* [[paper]](https://www.sciencedirect.com/science/article/pii/S1476927122001128?casa_token=KrR7rtlA4DoAAAAA:pmWZevNjaDzCs_jVsHQgU_-FibyfD6jIAZJlZRlEya7jEAI0wfAzLZSvq2sGIdz-p8Q42YALgw)
 
+- **SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study** *Samuel Cahyawijaya, Tiezheng Yu, Zihan Liu, Tiffany T.W. Mak, Xiaopu Zhou, Nancy Y. Ip, Pascale Fung* [[paper]](https://arxiv.org/abs/2204.06699)
+
 ## Functional Interactions
 - **Co-evolution based machine-learning for predicting functional interactions between human genes** *Doron Stupp, Elad Sharon, Idit Bloch, Marinka Zitnik, Or Zuk, Yuval Tabach* `Nature Communications 2021` [[paper]](https://www.nature.com/articles/s41467-021-26792-w)
 
