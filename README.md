@@ -25,6 +25,8 @@ model for DNA-language in genome** *Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V D
 
 - **SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study** *Samuel Cahyawijaya, Tiezheng Yu, Zihan Liu, Tiffany T.W. Mak, Xiaopu Zhou, Nancy Y. Ip, Pascale Fung* [[paper]](https://arxiv.org/abs/2204.06699)
 
+- **Transformer-based embedding applied to classify bacterial species using sequencing reads** *Ho-Jin Gwak; Mina Rho* 
+
 ## Functional Interactions
 - **Co-evolution based machine-learning for predicting functional interactions between human genes** *Doron Stupp, Elad Sharon, Idit Bloch, Marinka Zitnik, Or Zuk, Yuval Tabach* `Nature Communications 2021` [[paper]](https://www.nature.com/articles/s41467-021-26792-w)
 
